@@ -5,7 +5,7 @@
 }
 /* --------------------------Header----------------------- */
 .box-1{
-    height:350px;
+    height:370px;
     background-color: rgb(78, 78, 78);
 }
 .box-2{
@@ -29,7 +29,7 @@
     width: 300px;
     position: absolute;
     margin:auto;
-    top: 32.5px;
+    top: 52.5px;
     left: 0;
     right:0;
     border-radius: 50%;
@@ -39,13 +39,15 @@
     position: absolute;
     margin:auto;
     width: 45%;
-    top: 300px;
+    top: 320px;
     left: 0;
     right: 0; 
     background-color:rgb(255, 196, 0);
+    border-radius: 10px;
     text-align: center;
     box-sizing: border-box;   
-    font-size:85px;
+    font-size:90px;
+    /* padding:0 20px 0 20px; */
 }
 /* -------------------details resume------------------ */
 .col-container {
